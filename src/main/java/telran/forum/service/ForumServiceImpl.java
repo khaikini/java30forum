@@ -11,7 +11,7 @@ import telran.forum.dto.CommentDto;
 import telran.forum.dto.NewCommentDto;
 import telran.forum.dto.NewPostDto;
 import telran.forum.dto.PostDto;
-import telran.forum.exeptions.PostNotFoundException;
+import telran.forum.exceptions.PostNotFoundException;
 import telran.forum.model.Comment;
 import telran.forum.model.Post;
 
